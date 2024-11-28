@@ -50,7 +50,7 @@ function Login() {
                 message: "Logged in successful!",
                 variant: "success",
             });
-            navigate("/login");
+            navigate("/movies");
         }
     }, [isError, isSuccess, enqueueSnackbar, navigate]);
 

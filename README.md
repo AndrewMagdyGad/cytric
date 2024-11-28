@@ -19,7 +19,7 @@ Additionally, based on the backend and frontend implementations, you may need to
 -   (2) Install the backend dependencies by running `npm install` in the `server` subproject.
 -   (3) Run the backend server by running `npm run start:dev` in the `server` subproject.
 -   (4) At this point you should be able to access the backend server at http://localhost:4000/graphql
--   (5) [Deplyed Link]()
+-   (5) [Deplyed Link](https://cytric-api.onrender.com/)
 
 ## Frontend Setup
 
@@ -28,7 +28,7 @@ Additionally, based on the backend and frontend implementations, you may need to
 -   (2) Install the frontend dependencies by running `npm install` in the `client` subproject.
 -   (3) Run the frontend server by running `npm run start` in the `client` subproject.
 -   (4) At this point you should be able to access the frontend server at http://localhost:3000
--   (5) [Deplyed Link]()
+-   (5) [Deplyed Link](https://cytric-ui.onrender.com/)
 
 ## Demo
 
