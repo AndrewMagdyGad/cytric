@@ -32,7 +32,7 @@ Additionally, based on the backend and frontend implementations, you may need to
 
 ## Demo
 
--   [Loom Demo]()
+-   [Loom Demo](https://www.loom.com/share/c70facf879424c8bbf6ba9acebe8ef8e?sid=08c86bfe-caa5-4136-96a3-0f3deb10226f)
 
 ## Backend Technologies
 
