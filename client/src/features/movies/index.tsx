@@ -19,7 +19,7 @@ function Movies() {
     const dispatch = useAppDispatch();
 
     useEffect(() => {
-        listMovies({ page, per_page: 1 });
+        listMovies({ page, per_page: 10 });
     }, [page, listMovies]);
 
     const handleLogout = () => {
